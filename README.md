@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" src="images/logo.png">
+  <img height="200" src="images/sei_logo.png">
 </p>
 
 # sei_modeling_downstream
